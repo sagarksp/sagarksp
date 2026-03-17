@@ -1,16 +1,18 @@
 # 💫 About Me:
 Hi, I'm Sagar Kashyap
-Software Developer
+Full Stack Developer | Next.js & React.js | Node.js | C# & Enterprise Systems
 
-Passionate about building robust, scalable enterprise applications with a strong focus on
-real-world impact. Currently working at VaaaN Infra Ltd., I specialize in developing and
-maintaining complex systems like ATMS, AMS (Asset Management), CRMS, and MVRN — a re-audit transaction system I
-built entirely from scratch using C#. 🚀
+Passionate about building scalable, high-performance web applications with Next.js full 
+stack, React.js, Node.js, and Nginx. I specialize in crafting responsive, user-friendly, 
+and optimized digital experiences using modern web technologies. 🚀
 
-I thrive in solving challenging problems at both the code and database level, crafting
+Currently working at VaaaN Infra Ltd., I also specialize in developing and maintaining 
+complex enterprise systems like ATMS, AMS, CRMS, and MVRN — a re-audit transaction system I 
+built entirely from scratch using C#. 
+
+I thrive in solving challenging problems at both the code and database level, crafting 
 efficient report generation pipelines (RDLC), and delivering clean, maintainable solutions
-across large-scale government and infrastructure projects.
-
+across large-scale government and infrastructure projects. 💼
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sagar-kashyap-43327023a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://portfolio-sagarksps-projects.vercel.app/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kspsagar01@gmail.com) 
