@@ -1,6 +1,15 @@
 # 💫 About Me:
-https://portfolio-sagarksps-projects.vercel.app/
-Hi, I'm Sagar Kashyap<br>Full Stack Developer | Next.js & React.js Specialist | Node.js <br><br>Passionate about building scalable, high-performance web applications with Next.js full stack, React.js, Node.js, and Nginx. I specialize in crafting responsive, user-friendly, and optimized digital experiences using modern web technologies. 🚀
+Hi, I'm Sagar Kashyap
+Software Developer
+
+Passionate about building robust, scalable enterprise applications with a strong focus on
+real-world impact. Currently working at VaaaN Infra Ltd., I specialize in developing and
+maintaining complex systems like ATMS, AMS (Asset Management), CRMS, and MVRN — a re-audit transaction system I
+built entirely from scratch using C#. 🚀
+
+I thrive in solving challenging problems at both the code and database level, crafting
+efficient report generation pipelines (RDLC), and delivering clean, maintainable solutions
+across large-scale government and infrastructure projects.
 
 
 ## 🌐 Socials:
